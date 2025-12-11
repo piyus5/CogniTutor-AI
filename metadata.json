@@ -1,0 +1,7 @@
+{
+  "name": "CogniTutor AI",
+  "description": "An intelligent, subject-aware personal tutor application helping students learn concepts through conversation and visual aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
